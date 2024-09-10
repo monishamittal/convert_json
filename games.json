@@ -1,0 +1,415 @@
+[
+  {
+    "_id": "",
+    "genres": "Strategy Fighting",
+    "name": "C.A.T.S. Crash Arena Turbo Stars",
+    "slug": "cats",
+    "short_description": "Build your own battle robot and unleash its power in this stylish PvP fighting game! Fight your way up from backyards to the World Championship. Win new parts and use them to design an unbeatable fighting machine. Make every opponent bite the dust!",
+    "long_description": "C.A.T.S.: Crash Arena Turbo Stars is a PVP game with an asynchronous multiplayer. You play against the machines created by real players. The better you assemble it, the more fights you win . If you have seen and loved the movie Real Steel where Robots fight against each other then this game is just going to give you the same feel. The Storyline is that In a world where cats rule everything, you play as an ambitious kitten who's dreaming of becoming the best engineer of battle cars world. It has 24 stages to get into the finals and become the world champion!",
+    "url": "",
+    "user_rating": "4.3",
+    "launched": "Apr, 2017",
+    "installs": "223+ Mln",
+    "trailer": "https://www.youtube.com/watch?v=Q9bPH1adh_0",
+    "banners": {
+      "1024x500": [
+        "images/cats/banners/1024x500_1.webp"
+      ]
+    },
+    "icons": {
+      "512x512": [
+        "images/cats/icons/512x512_1.png"
+      ],
+      "96x96": [
+        "images/cats/icons/96x96_1.png"
+      ]
+    },
+    "screenshots": {
+      "320x480": [
+        "images/cats/screenshots/320x480_4.jpg",
+        "images/cats/screenshots/320x480_3.jpg",
+        "images/cats/screenshots/320x480_2.jpg",
+        "images/cats/screenshots/320x480_1.jpg"
+      ],
+      "1920x1080": [
+        "images/cats/screenshots/1920x1080_8.png",
+        "images/cats/screenshots/1920x1080_7.png",
+        "images/cats/screenshots/1920x1080_6.png",
+        "images/cats/screenshots/1920x1080_5.png",
+        "images/cats/screenshots/1920x1080_4.png",
+        "images/cats/screenshots/1920x1080_3.png",
+        "images/cats/screenshots/1920x1080_2.png",
+        "images/cats/screenshots/1920x1080_1.png"
+      ]
+    }
+  },
+  {
+    "_id": "",
+    "genres": "Physics- based Arcade Battle",
+    "name": "Evo Pop",
+    "slug": "evo_pop",
+    "short_description": "InEvo Pop players breed creatures –Evos –starting with a single living organism until they achieve WORLD DOMINATION! Get ready to duplicate, grow, jump, and evolve to the top of the food chain!",
+    "long_description": "A Multiplayer high on strategy game where you Multiply and destroy! You start the game as a cute small Evo, but looks can be so deceiving. Your goal is to dominate your world. Eat the delicious foliage around you and your tasty enemies as well. Evos interact with the environment and eat grass, flowers and bugs to multiply faster. Fight for strategic resources on the map to win!",
+    "url": "",
+    "user_rating": "4.2",
+    "launched": "Nov, 2020",
+    "installs": "12+ Mln",
+    "trailer": "https://www.youtube.com/watch?v=VoJkJynlH1Q",
+    "banners": {
+      "1024x500": [
+        "images/evo_pop/banners/1024x500_1.webp"
+      ]
+    },
+    "icons": {
+      "512x512": [
+        "images/evo_pop/icons/512x512_2.png",
+        "images/evo_pop/icons/512x512_1.png"
+      ],
+      "96x96": [
+        "images/evo_pop/icons/96x96_2.png",
+        "images/evo_pop/icons/96x96_1.png"
+      ]
+    },
+    "screenshots": {
+      "320x480": [],
+      "1920x1080": [
+        "images/evo_pop/screenshots/1920x1080_6.png",
+        "images/evo_pop/screenshots/1920x1080_5.png",
+        "images/evo_pop/screenshots/1920x1080_4.png",
+        "images/evo_pop/screenshots/1920x1080_3.png",
+        "images/evo_pop/screenshots/1920x1080_2.png",
+        "images/evo_pop/screenshots/1920x1080_1.png"
+      ]
+    }
+  },
+  {
+    "_id": "",
+    "genres": "Arcade",
+    "name": "Cut the Rope: Original",
+    "slug": "ctr_o",
+    "short_description": "Follow the adventure of Om Nom in the first part of the legendary \"Cut the Rope\" logic puzzles series. Get it now for free and start playing with millions of players around the world!",
+    "long_description": "Cut the Rope is a series of physics-based consists of the original game of the same name where the objective is to feed candy to a little green creature named Om Nom while collecting stars. The variation of this game were also equally popular to the main game called Cut to rope 2 , cut the rope experiments , cut the rope time travel, cut the rope Holiday and cut the rope Magic.",
+    "url": "",
+    "user_rating": "4.5",
+    "launched": "March, 2012",
+    "installs": "100+ Mln",
+    "trailer": "https://www.youtube.com/watch?v=hGEa7RzmdaM",
+    "banners": {
+      "1024x500": [
+        "images/ctr_o/banners/1024x500_1.webp"
+      ]
+    },
+    "icons": {
+      "512x512": [
+        "images/ctr_o/icons/512x512_2.png",
+        "images/ctr_o/icons/512x512_1.png"
+      ],
+      "96x96": [
+        "images/ctr_o/icons/96x96_2.png",
+        "images/ctr_o/icons/96x96_1.png"
+      ]
+    },
+    "screenshots": {
+      "320x480": [
+        "images/ctr_o/screenshots/320x480_4.jpg",
+        "images/ctr_o/screenshots/320x480_3.jpg",
+        "images/ctr_o/screenshots/320x480_2.jpg",
+        "images/ctr_o/screenshots/320x480_1.jpg"
+      ],
+      "1920x1080": []
+    }
+  },
+  {
+    "_id": "",
+    "genres": "Action",
+    "name": "Downhill Smash",
+    "slug": "downhill_smash",
+    "short_description": "A wacky Action game from ZeptoLab and Hipster Whale! Smash everything on your way downhill to victory! Be faster than the avalanche by boosting your crushing boulder machine with unique and deadly weapons from a wide selection!",
+    "long_description": "UNIQUE PHYSICS-BASED GAMEPLAY which is based on the snow world there where you Destroy everything on your way! Build the ultimate zombie-smashing machine! Race through the wacky post-apocalyptic world. Unlock and upgrade powerful weapons. Defeat giant zombie bosses!",
+    "url": "",
+    "user_rating": "4.5",
+    "launched": "Dec, 2021",
+    "installs": "5+ Mln",
+    "trailer": "https://www.youtube.com/watch?v=d7D5KfVO2Ek",
+    "banners": {
+      "1024x500": [
+        "images/downhill_smash/banners/1024x500_1.webp"
+      ]
+    },
+    "icons": {
+      "512x512": [
+        "images/downhill_smash/icons/512x512_2.png",
+        "images/downhill_smash/icons/512x512_1.png"
+      ],
+      "96x96": [
+        "images/downhill_smash/icons/96x96_1.png"
+      ]
+    },
+    "screenshots": {
+      "320x480": [],
+      "1920x1080": [
+        "images/downhill_smash/screenshots/1920x1080_3.png",
+        "images/downhill_smash/screenshots/1920x1080_2.png",
+        "images/downhill_smash/screenshots/1920x1080_1.png"
+      ]
+    }
+  },
+  {
+    "_id": "",
+    "genres": "Arcade",
+    "name": "Cut the Rope: 2",
+    "slug": "ctr_2",
+    "short_description": "Second part of the legendary Cut the Rope logic puzzles series. Get it now for free! Cut the Rope 2 is a part of the iconic Cut the Rope franchise by ZeptoLab, which follows the adventures of Om Nom, a cute green creature that adores candies!",
+    "long_description": "N/A",
+    "url": "",
+    "user_rating": "4.4",
+    "launched": "March, 2014",
+    "installs": "100+ Mln",
+    "trailer": "https://www.youtube.com/watch?v=e3o8RNX8i1E",
+    "banners": {
+      "1024x500": [
+        "images/ctr_2/banners/1024x500_2.webp",
+        "images/ctr_2/banners/1024x500_1.webp"
+      ]
+    },
+    "icons": {
+      "512x512": [
+        "images/ctr_2/icons/512x512_2.png",
+        "images/ctr_2/icons/512x512_1.png"
+      ],
+      "96x96": [
+        "images/ctr_2/icons/96x96_2.png",
+        "images/ctr_2/icons/96x96_1.png"
+      ]
+    },
+    "screenshots": {
+      "320x480": [
+        "images/ctr_2/screenshots/320x480_4.jpg",
+        "images/ctr_2/screenshots/320x480_3.jpg",
+        "images/ctr_2/screenshots/320x480_2.jpg",
+        "images/ctr_2/screenshots/320x480_1.jpg"
+      ],
+      "1920x1080": []
+    }
+  },
+  {
+    "_id": "",
+    "genres": "Puzzle",
+    "name": "Cut the Rope: Magic",
+    "slug": "ctr_m",
+    "short_description": "ABRACADABRA! After more than 960 million downloads, the Cut the Rope series returns with a magical new sequel: Cut the Rope: Magic! Join Om Nom’s newest adventure and transform him into magical forms to help the lovable little monster recover candy stolen by an evil wizard!",
+    "long_description": "N/A",
+    "url": "",
+    "user_rating": "4.4",
+    "launched": "April, 2017",
+    "installs": "10+ Mln",
+    "trailer": "https://www.youtube.com/watch?v=Yoxax1OUOss",
+    "banners": {
+      "1024x500": [
+        "images/ctr_m/banners/1024x500_1.webp"
+      ]
+    },
+    "icons": {
+      "512x512": [
+        "images/ctr_m/icons/512x512_1.png",
+        "images/ctr_m/icons/512x512-2.png"
+      ],
+      "96x96": [
+        "images/ctr_m/icons/96x96_2.png",
+        "images/ctr_m/icons/96x96_1.png"
+      ]
+    },
+    "screenshots": {
+      "320x480": [
+        "images/ctr_m/screenshots/320x480_3.png",
+        "images/ctr_m/screenshots/320x480_2.png",
+        "images/ctr_m/screenshots/320x480_1.png"
+      ],
+      "1920x1080": []
+    }
+  },
+  {
+    "_id": "",
+    "genres": "Puzzle",
+    "name": "Cut the Rope: Experiments",
+    "slug": "ctr_e",
+    "short_description": "Experiment to feed Om Nom candy! Cut the rope like never before. Everything you love and new gameplay! 200 levels and more to come!",
+    "long_description": "N/A",
+    "url": "",
+    "user_rating": "4.1",
+    "launched": "March, 2012",
+    "installs": "50+ Mln",
+    "trailer": "https://www.youtube.com/watch?v=b2azcp6yg94",
+    "banners": {
+      "1024x500": [
+        "images/ctr_e/banners/1024x500_1.webp"
+      ]
+    },
+    "icons": {
+      "512x512": [
+        "images/ctr_e/icons/512x512_1.png"
+      ],
+      "96x96": [
+        "images/ctr_e/icons/96x96_1.png"
+      ]
+    },
+    "screenshots": {
+      "320x480": [
+        "images/ctr_e/screenshots/320x480_4.jpg",
+        "images/ctr_e/screenshots/320x480_3.jpg",
+        "images/ctr_e/screenshots/320x480_2.jpg",
+        "images/ctr_e/screenshots/320x480_1.jpg"
+      ],
+      "1920x1080": []
+    }
+  },
+  {
+    "_id": "",
+    "genres": "Strategy Fighting",
+    "name": "Cut the Rope: Time Travel",
+    "slug": "ctr_tt",
+    "short_description": "Join Om Nom as he travels back in time to feed his ancestors with candy. Cut the Rope: Time Travel is a completely new adventure filled with time-traveling, candy-crunching, physics-based action.",
+    "long_description": "N/A",
+    "url": "",
+    "user_rating": "4.6",
+    "launched": "April, 2013",
+    "installs": "50+ Mln",
+    "trailer": "https://www.youtube.com/watch?v=aEWputinvRA",
+    "banners": {
+      "1024x500": [
+        "images/ctr_tt/banners/1024x500_4.webp",
+        "images/ctr_tt/banners/1024x500_3.webp",
+        "images/ctr_tt/banners/1024x500_2.webp",
+        "images/ctr_tt/banners/1024x500_1.webp"
+      ]
+    },
+    "icons": {
+      "512x512": [
+        "images/ctr_tt/icons/512x512_3.png",
+        "images/ctr_tt/icons/512x512_1.png"
+      ],
+      "96x96": [
+        "images/ctr_tt/icons/96x96_1.png"
+      ]
+    },
+    "screenshots": {
+      "320x480": [
+        "images/ctr_tt/screenshots/320x480_4.jpg",
+        "images/ctr_tt/screenshots/320x480_3.jpg",
+        "images/ctr_tt/screenshots/320x480_2.jpg",
+        "images/ctr_tt/screenshots/320x480_1.jpg"
+      ],
+      "1920x1080": []
+    }
+  },
+  {
+    "_id": "",
+    "genres": "Puzzle",
+    "name": "Cut the Rope: Holiday Gift",
+    "slug": "ctr_hg",
+    "short_description": "Cut the Rope: Holiday Gift is a free and independent expansion of one of the most popular titles on Google Play Store – the excellent puzzle game Cut the Rope.",
+    "long_description": "N/A",
+    "url": "",
+    "user_rating": "4.6",
+    "launched": "April, 2017",
+    "installs": "223+ Mln",
+    "trailer": "https://www.youtube.com/watch?v=upnJJusroko",
+    "banners": {
+      "1024x500": [
+        "images/ctr_hg/banners/1024x500_1.webp"
+      ]
+    },
+    "icons": {
+      "512x512": [
+        "images/ctr_hg/icons/512x512_1.png"
+      ],
+      "96x96": [
+        "images/ctr_hg/icons/96x96_1.png"
+      ]
+    },
+    "screenshots": {
+      "320x480": [
+        "images/ctr_hg/screenshots/320x480_3.png",
+        "images/ctr_hg/screenshots/320x480_2.png",
+        "images/ctr_hg/screenshots/320x480_1.png"
+      ],
+      "1920x1080": []
+    }
+  },
+  {
+    "_id": "",
+    "genres": "Action",
+    "name": "Om Nom Run",
+    "slug": "om_nom_run",
+    "short_description": "Build your own battle robot and unleash its power in this stylish PvP fighting game! Fight your way up from backyards to the World Championship. Win new parts and use them to design an unbeatable fighting machine. Make every opponent bite the dust!",
+    "long_description": "Its a runner mobile game where Om Nom is running through the dangerous streets of Nomville. The game has multiple gameplay modes. The main mode, called Free Run, is a traditional endless runner game. The mission mode gives players tasks to complete as they run. This mode ends when the player crashes or completes the mission objectives.",
+    "url": "",
+    "user_rating": "3.9",
+    "launched": "Feb, 2020",
+    "installs": "10+ Mln",
+    "trailer": "https://www.youtube.com/watch?v=0kSAMu_jLQ8",
+    "banners": {
+      "1024x500": [
+        "images/om_nom_run/banners/1024x500_1.webp"
+      ]
+    },
+    "icons": {
+      "512x512": [
+        "images/om_nom_run/icons/512x512_1.png"
+      ],
+      "96x96": [
+        "images/om_nom_run/icons/96x96_1.png"
+      ]
+    },
+    "screenshots": {
+      "320x480": [
+        "images/om_nom_run/screenshots/320x480_3.png",
+        "images/om_nom_run/screenshots/320x480_2.png",
+        "images/om_nom_run/screenshots/320x480_1.png"
+      ],
+      "1920x1080": []
+    }
+  },
+  {
+    "_id": "",
+    "genres": "Puzzle",
+    "name": "Pudding Monsters",
+    "slug": "pudding_monsters",
+    "short_description": "Sticky, curious… and DETERMINED TO GET BIGGER! From the makers of Cut the Rope, Pudding Monsters is a deliciously addicting puzzle adventure with wacky characters and innovative stick-'em-together game-play.",
+    "long_description": "Pudding Monsters is a deliciously addicting puzzle adventure with wacky characters and innovative stick-‘em-together game-play. It’s casual fun for the whole family! The Pudding Monsters are on a mission to save their friends from the cold-hearted fridge owner! Growing into an ULTIMATE MEGA MONSTER sounds like the most reliable plan. Can you give them a hand?",
+    "url": "",
+    "user_rating": "4.2",
+    "launched": "Dec, 2012",
+    "installs": "10+ Mln",
+    "trailer": "https://www.youtube.com/watch?v=rV1dlN-dbJQ",
+    "banners": {
+      "1024x500": [
+        "images/pudding_monsters/banners/1024x500_1.webp"
+      ]
+    },
+    "icons": {
+      "512x512": [
+        "images/pudding_monsters/icons/512x512_1.png"
+      ],
+      "96x96": [
+        "images/pudding_monsters/icons/96x96_1.png"
+      ]
+    },
+    "screenshots": {
+      "320x480": [],
+      "1920x1080": [
+        "images/pudding_monsters/screenshots/1920x1080_6_zh.png",
+        "images/pudding_monsters/screenshots/1920x1080_5_zh.png",
+        "images/pudding_monsters/screenshots/1920x1080_5_en.jpg",
+        "images/pudding_monsters/screenshots/1920x1080_4_zh.png",
+        "images/pudding_monsters/screenshots/1920x1080_4_en.jpg",
+        "images/pudding_monsters/screenshots/1920x1080_3_zh.png",
+        "images/pudding_monsters/screenshots/1920x1080_3_en.jpg",
+        "images/pudding_monsters/screenshots/1920x1080_2_zh.png",
+        "images/pudding_monsters/screenshots/1920x1080_2_en.jpg",
+        "images/pudding_monsters/screenshots/1920x1080_1_zh.png",
+        "images/pudding_monsters/screenshots/1920x1080_1_en.jpg"
+      ]
+    }
+  }
+]
